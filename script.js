@@ -1,4 +1,4 @@
-const TARGET_URL = "https://cutt.ly/ErVeprMM";
+const TARGET_URL = "https://google.com";
 const DELAY = 5;
 
 const goNow = document.getElementById("goNow");
